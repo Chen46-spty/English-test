@@ -1,0 +1,7 @@
+{
+  "name": "SmartEnglish Exam - 學生自主英文考試系統",
+  "description": "一款結合 OCR 與 TTS 的自主英文測驗軟體，支援文法與單字練習。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
